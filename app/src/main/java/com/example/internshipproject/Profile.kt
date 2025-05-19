@@ -105,7 +105,7 @@ fun Profile(){
 
                 }
                 Spacer(modifier = Modifier.height(12.dp))
-                Surface(color = Color.Black) {
+                Surface(color = MaterialTheme.colorScheme.surface) {
                     Box(
                         modifier = Modifier.fillMaxWidth().clip(RectangleShape)
                             .border(1.dp, Color.Gray, RectangleShape).padding(16.dp)
@@ -178,7 +178,7 @@ fun Profile(){
         }
                 Spacer(modifier = Modifier.height(14.dp))
                 Surface(
-                    color = Color.Black, // You can also use custom shades
+                    color = MaterialTheme.colorScheme.surface, // You can also use custom shades
                     modifier = Modifier.fillMaxWidth()
                 ) {
                     Column(modifier = Modifier.padding(16.dp)) {
