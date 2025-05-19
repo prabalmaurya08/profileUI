@@ -14,7 +14,7 @@ Provide the complete app code in GitHub and add screenshots of the screen in thi
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode Screenshot](screenshots/light_mode.png) | ![Dark Mode Screenshot](screenshots/dark_mode.png) |
+| ![Light Mode Screenshot](screenshots/light.jpeg) | ![Dark Mode Screenshot](screenshots/dark.jpeg) |
 
 > 💡 *Please note: Screenshots are placed under the `/screenshots` folder.*
 
